@@ -232,5 +232,3 @@ setState()  → UI refresh
 
 ---
 
-**Use this document as your personal Flutter notebook.**
-Slow but solid progress = long-term success 💪
